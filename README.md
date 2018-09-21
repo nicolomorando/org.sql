@@ -5,7 +5,7 @@
 
 ### Projects Counter
 ```sh
-- Students Database, register student mark and where they live.
+- 1) Students Database, register student mark and where they live.
 ```
 ### Contact Me
 [t.me/nicolòmorando](https://t.me/nikmrnd)
